@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gamal Hafez 👋
 
-<!--
-**GamalHafez/GamalHafez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a recent graduate from a business college, and I’m now shifting my career to become a web developer. I began my journey by learning **programming fundamentals using Python**, and built several small projects, including interactive games with Turtle graphics. 
 
-Here are some ideas to get you started:
+After gaining confidence with Python, I shifted my focus to **web development**, where I’m now building a solid foundation in **HTML**, **CSS**, and **JavaScript**. I'm passionate about technology and love creating things that are both useful and user-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Currently Learning
+
+- Responsive layout best practices
+- Reusable component design
+- Advanced Flexbox & Grid
+- Accessibility and ARIA roles
+- JavaScript fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: gamal.k.hafez@gmail.com
+- 🌐 LinkedIn: [linkedin.com/in/gamalhafez](https://www.linkedin.com/in/gamal-hafez/)
+- 💻 Frontend Mentor: [@gamalhafez](https://www.frontendmentor.io/profile/gamalhafez)
+- 🌍 GitHub: [@gamalhafez](https://github.com/gamalhafez)

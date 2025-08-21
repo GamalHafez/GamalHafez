@@ -9,10 +9,10 @@ After gaining confidence with Python, I shifted my focus to **web development**,
 ## 📈 Currently Learning
 
 - Responsive layout best practices
-- Reusable component design
 - Advanced Flexbox & Grid
-- Accessibility and ARIA roles
+- Accessibility and web standards
 - JavaScript fundamentals
+- Programming logic
 
 ---
 

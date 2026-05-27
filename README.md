@@ -6,16 +6,6 @@ After gaining confidence with Python, I shifted my focus to **web development**,
 
 ---
 
-## 📈 Currently Learning
-
-- Responsive layout best practices
-- Advanced Flexbox & Grid
-- Accessibility and web standards
-- JavaScript fundamentals
-- Programming logic
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: gamal.k.hafez@gmail.com
